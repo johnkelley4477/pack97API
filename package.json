@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/johnkelley4477/pack97API#readme",
   "dependencies": {
-    "hapi": "^16.5.2"
+    "hapi": "^16.5.2",
+    "inert": "^4.2.1"
   }
 }
