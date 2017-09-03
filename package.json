@@ -1,0 +1,25 @@
+{
+  "name": "pack97api",
+  "version": "1.0.0",
+  "description": "This is the API for the NC Pack97 Cub Scouts ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnkelley4477/pack97API.git"
+  },
+  "keywords": [
+    "pack97api"
+  ],
+  "author": "John Kelley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnkelley4477/pack97API/issues"
+  },
+  "homepage": "https://github.com/johnkelley4477/pack97API#readme",
+  "dependencies": {
+    "hapi": "^16.5.2"
+  }
+}
